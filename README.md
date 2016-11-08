@@ -1,2 +1,2 @@
-# bloomfilter
-Bloomfilter in Golang
+# Bloomfilter
+Simple bloomfilter in Golang
